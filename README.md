@@ -1,4 +1,4 @@
-This is one long readme file of what I've done if I haven't pushed code - install programs/setup environments/reading
+This is one long readme file of what I've done if I haven't pushed code - install programs/setup environments/reading <br>
 
 September 5-
 ======================================
