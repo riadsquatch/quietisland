@@ -2,7 +2,7 @@ This is one long readme file of what I've done if I haven't pushed code - instal
 
 September 5-
 ======================================
-Installed VSCode
+Installed VSCode<br>
 Linked it with GitHub
 Installed Chocolatey
 Installed JDK17
